@@ -1,0 +1,233 @@
+@media screen and (max-width: 375px){
+    * {
+      color:bisque;
+    }
+   }
+    
+    
+   *{
+    color: black;
+   }
+  
+  header{
+      border: 1px solid gray;
+      height:50px;
+      display:flex;
+      justify-content: space-between;
+  
+  }
+  .menu-container {
+      display: flex;
+      width: 300px;
+      justify-content: space-between;
+      align-items: center;
+      
+    }
+    .menu{
+      border:solid black;
+      border-radius: 24px;
+      padding-top:10px;
+      padding-bottom:10px;
+      padding-left:10px;
+      padding-right:10px;
+     
+      
+      
+     
+    }
+    .filters-containers img{ 
+      display:flex;
+      flex-direction: row;
+      width: 50px;
+      height:40px;
+      flex-wrap: nowrap;
+      justify-content:space-between;
+      padding-bottom: 80px;
+     
+      
+    }
+  
+   .filters-containers {
+      display:flex;
+      flex-direction: row;
+      flex-wrap:nowrap;
+      justify-content:space-between;
+       margin-top: 7px;
+       margin-left: 8px;
+      -webkit-transition: all 400ms ease-out;
+      -moz-transition: all 400ms ease-out;
+      -o-transition: all 400ms ease-out;
+      -ms-transition: all 400ms ease-out;
+       transition: all 400ms ease-out;
+       opacity: 30%;
+       
+  }
+  .filters-containers:hover {
+    opacity: 1;
+    color: rgb(170, 159, 159);
+  }
+  .filters-containers div{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+  }
+   
+      .menu-container i {
+      color: black;
+    }
+    .topnav {
+      display: block;
+      margin-top: 20px;
+      border: solid rgb(225, 213, 213);
+      border-radius: 15px;
+      padding-bottom: 10px;
+      padding-top: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      word-spacing: 10px;
+     
+    }
+  
+  
+    
+    
+    .button1{
+      border: none;
+      font-size: 1rem;
+      background-color: white;
+      border-right: solid rgb(225, 213, 213);
+     
+      
+    }
+    .button2{
+      border: none;
+      font-size: 1rem;
+      background-color: white;
+      border-right: solid rgb(225, 213, 213);
+     
+    }
+    .button3{
+      border: none;
+      font-size: 1rem;
+      background-color: white;
+    }
+    .filter  {
+      display:flex;
+      height:20px;
+      border: solid black;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 15px;
+      padding-right: 15px;
+      margin-top: 8px;
+      margin-right: 10px;
+      border-radius: 15px;
+     
+  }
+     .text1{
+      font-size: 0.8em;
+      position: absolute;
+     }
+     .text2{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text3{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text4{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text5{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text6{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text7{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text8{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text9{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text10{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text11{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+     .text12{
+      font-size: 0.8em;
+      position: absolute;
+      
+     }
+  
+  
+     .filter img{
+      margin-top: 90px;
+      width:25px;
+      height:25px;
+      margin-right: 10px;
+      margin-bottom:10px;
+     }
+     
+     
+    
+     .accommodation-container img {
+      width: 250px;
+      height:300px;
+      display:inline flex;
+      flex-direction: row;
+      align-items: flex-start;
+      align-content: flex-start;
+      justify-content:space-between;
+      flex-wrap: wrap;
+      margin-left: 80px;
+      margin-top: 50px;
+      border-radius: 8px;
+      
+      
+    }
+    .caption1{
+      font-size:1em;
+     
+      
+    }
+    .footer-captions{
+      padding-bottom: 10px;
+    }
+    
+  footer{
+        
+      border-top: 1px solid gray;
+      border-bottom: 1px solid gray;;
+      height: 67px;
+      margin-left: 10px;
+   
+  }
+  
+  
+  
+  
